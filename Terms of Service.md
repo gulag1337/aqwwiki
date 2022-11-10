@@ -231,4 +231,6 @@ Consumer
 
 Any User qualifying as a natural person who accesses goods or services for personal use, or more generally, acts for purposes outside their trade, business, craft or profession.
 
-Last update on: 10th of November, 2022.
+Last update on:
+
+        10th of November, 2022.
